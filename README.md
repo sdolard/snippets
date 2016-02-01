@@ -1,2 +1,3 @@
-# snippets
-My snyppets
+# My snyppets and code learning
+- bash
+- rust
